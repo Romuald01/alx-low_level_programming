@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int main(void)
 {
 	printf("Romuald\n");
- 	
-	retrun(0);
+
+	return (0);
 }
-		
